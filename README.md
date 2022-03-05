@@ -14,6 +14,8 @@ Requisitos de instalación:
 Guía de instalación:
 - Ejecutar el proyecto en un compilador o intérprete
 
+(Consultar Wiki del repositorio)
+
 Información del autor:
 - Carlos Alcaide Sánchez
 - Estudiante de Grado Superior IES Augustóbriga, Navalmoral de la Mata
